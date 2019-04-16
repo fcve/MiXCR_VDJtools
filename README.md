@@ -21,7 +21,7 @@ TCR repertoire analysis from bulk RNA-Seq data
 
   $ bash quantile_stats.sh
 
-- clonality measurements
+- clonality measurements (requires metafile)
 
   $ bash diversity_stats.sh
   
