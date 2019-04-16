@@ -4,9 +4,11 @@ TCR repertoire analysis from bulk RNA-Seq data
 ### Pipeline structure
 
 - align
+
 $ bash mixcr.sh
   
 - two rounds of assemblePartial, extend, assemble and export to human readable format  
+
 $ bash mixcr_processing.sh
   
   
