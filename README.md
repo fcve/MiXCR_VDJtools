@@ -19,9 +19,12 @@ TCR repertoire analysis from bulk RNA-Seq data
 
 - proportion of singletons, doubletons and high-order clones within each sample
 
+  $ bash quantile_stats.sh
+
+- clonality measurements
+
+  $ bash diversity_stats.sh
   
-
-
 ### Overlap analysis
 
   
