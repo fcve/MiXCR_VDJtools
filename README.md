@@ -27,5 +27,11 @@ TCR repertoire analysis from bulk RNA-Seq data
   
 ### Overlap analysis
 
+- simultaneous between all samples
+
+  $ bash vdj_tools_strict.sh
   
+- one by one 
+
+  $ bash vdj_tools_one_by_one.sh 
 
